@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.phonewalaa.com	TRUE	/	FALSE	1999999999	Shop5	g9nlmrp3a3iocjnr4osd9s5ai0
+www.phonewalaa.com	TRUE	/	FALSE	1999999999	admin_skin	zencommerce_rwd
+
